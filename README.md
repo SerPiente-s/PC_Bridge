@@ -15,3 +15,5 @@ High-level modules (Computer) do not depend on low-level modules (AirCoolingSyst
 Domain-specific and structural pattern roles are explicitly named without ambiguity (CoolingSystem, GamingPC, executeHeavyTask).
 ### No Duplicated Logic (DRY):
 Dynamic cooling switching (setCoolingSystem) and property management are encapsulated centrally within the Computer superclass.
+
+
